@@ -1,0 +1,15 @@
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\bin\Debug\net7.0\EShop.DbMigrator.exe
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\bin\Debug\net7.0\EShop.DbMigrator.deps.json
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\bin\Debug\net7.0\EShop.DbMigrator.runtimeconfig.json
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\bin\Debug\net7.0\EShop.DbMigrator.dll
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\bin\Debug\net7.0\EShop.DbMigrator.pdb
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\EShop.DbMigrator.csproj.AssemblyReference.cache
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\EShop.DbMigrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\EShop.DbMigrator.AssemblyInfoInputs.cache
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\EShop.DbMigrator.AssemblyInfo.cs
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\EShop.DbMigrator.csproj.CoreCompileInputs.cache
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\EShop.DbMigrator.dll
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\refint\EShop.DbMigrator.dll
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\EShop.DbMigrator.pdb
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\EShop.DbMigrator.genruntimeconfig.cache
+D:\Learn\Microservice\EShopWithABP\EshopWithABP\shared\EShop.DbMigrator\obj\Debug\net7.0\ref\EShop.DbMigrator.dll

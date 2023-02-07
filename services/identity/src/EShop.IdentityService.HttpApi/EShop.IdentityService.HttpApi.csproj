@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>EShop.IdentityService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="7.0.1" />
+    <PackageReference Include="Volo.Abp.Identity.HttpApi" Version="7.0.1" />
+    <ProjectReference Include="..\EShop.IdentityService.Application.Contracts\EShop.IdentityService.Application.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

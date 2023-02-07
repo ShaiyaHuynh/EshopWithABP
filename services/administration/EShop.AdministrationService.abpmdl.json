@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "EShop.AdministrationService.Domain.Shared": {
+      "path": "src/EShop.AdministrationService.Domain.Shared/EShop.AdministrationService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.AdministrationService.Domain": {
+      "path": "src/EShop.AdministrationService.Domain/EShop.AdministrationService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.AdministrationService.Application.Contracts": {
+      "path": "src/EShop.AdministrationService.Application.Contracts/EShop.AdministrationService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.AdministrationService.Application": {
+      "path": "src/EShop.AdministrationService.Application/EShop.AdministrationService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.AdministrationService.EntityFrameworkCore": {
+      "path": "src/EShop.AdministrationService.EntityFrameworkCore/EShop.AdministrationService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.AdministrationService.MongoDB": {
+      "path": "src/EShop.AdministrationService.MongoDB/EShop.AdministrationService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.AdministrationService.HttpApi": {
+      "path": "src/EShop.AdministrationService.HttpApi/EShop.AdministrationService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.AdministrationService.HttpApi.Client": {
+      "path": "src/EShop.AdministrationService.HttpApi.Client/EShop.AdministrationService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.AdministrationService.TestBase": {
+      "path": "test/EShop.AdministrationService.TestBase/EShop.AdministrationService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.AdministrationService.EntityFrameworkCore.Tests": {
+      "path": "test/EShop.AdministrationService.EntityFrameworkCore.Tests/EShop.AdministrationService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.AdministrationService.MongoDB.Tests": {
+      "path": "test/EShop.AdministrationService.MongoDB.Tests/EShop.AdministrationService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.AdministrationService.Domain.Tests": {
+      "path": "test/EShop.AdministrationService.Domain.Tests/EShop.AdministrationService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.AdministrationService.Application.Tests": {
+      "path": "test/EShop.AdministrationService.Application.Tests/EShop.AdministrationService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.AdministrationService.HttpApi.Host": {
+      "path": "host/EShop.AdministrationService.HttpApi.Host/EShop.AdministrationService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "EShop.AdministrationService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/EShop.AdministrationService.HttpApi.Client.ConsoleTestApp/EShop.AdministrationService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.AdministrationService.AuthServer": {
+      "path": "host/EShop.AdministrationService.AuthServer/EShop.AdministrationService.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "EShop.AdministrationService.Host.Shared": {
+      "path": "host/EShop.AdministrationService.Host.Shared/EShop.AdministrationService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

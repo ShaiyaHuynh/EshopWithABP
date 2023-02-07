@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "EShop.IdentityService.Domain.Shared": {
+      "path": "src/EShop.IdentityService.Domain.Shared/EShop.IdentityService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.IdentityService.Domain": {
+      "path": "src/EShop.IdentityService.Domain/EShop.IdentityService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.IdentityService.Application.Contracts": {
+      "path": "src/EShop.IdentityService.Application.Contracts/EShop.IdentityService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.IdentityService.Application": {
+      "path": "src/EShop.IdentityService.Application/EShop.IdentityService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.IdentityService.EntityFrameworkCore": {
+      "path": "src/EShop.IdentityService.EntityFrameworkCore/EShop.IdentityService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.IdentityService.MongoDB": {
+      "path": "src/EShop.IdentityService.MongoDB/EShop.IdentityService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.IdentityService.HttpApi": {
+      "path": "src/EShop.IdentityService.HttpApi/EShop.IdentityService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.IdentityService.HttpApi.Client": {
+      "path": "src/EShop.IdentityService.HttpApi.Client/EShop.IdentityService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.IdentityService.TestBase": {
+      "path": "test/EShop.IdentityService.TestBase/EShop.IdentityService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.IdentityService.EntityFrameworkCore.Tests": {
+      "path": "test/EShop.IdentityService.EntityFrameworkCore.Tests/EShop.IdentityService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.IdentityService.MongoDB.Tests": {
+      "path": "test/EShop.IdentityService.MongoDB.Tests/EShop.IdentityService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.IdentityService.Domain.Tests": {
+      "path": "test/EShop.IdentityService.Domain.Tests/EShop.IdentityService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.IdentityService.Application.Tests": {
+      "path": "test/EShop.IdentityService.Application.Tests/EShop.IdentityService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.IdentityService.HttpApi.Host": {
+      "path": "host/EShop.IdentityService.HttpApi.Host/EShop.IdentityService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "EShop.IdentityService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/EShop.IdentityService.HttpApi.Client.ConsoleTestApp/EShop.IdentityService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.IdentityService.AuthServer": {
+      "path": "host/EShop.IdentityService.AuthServer/EShop.IdentityService.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "EShop.IdentityService.Host.Shared": {
+      "path": "host/EShop.IdentityService.Host.Shared/EShop.IdentityService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

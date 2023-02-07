@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "EShop.SaaSService": {
+      "path": "EShop.SaaSService.abpmdl.json"
+    }
+  }
+}

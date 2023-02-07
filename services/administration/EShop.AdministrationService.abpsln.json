@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "EShop.AdministrationService": {
+      "path": "EShop.AdministrationService.abpmdl.json"
+    }
+  }
+}

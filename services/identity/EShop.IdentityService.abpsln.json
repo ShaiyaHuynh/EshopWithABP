@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "EShop.IdentityService": {
+      "path": "EShop.IdentityService.abpmdl.json"
+    }
+  }
+}

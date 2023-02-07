@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "EShop.SaaSService.Domain.Shared": {
+      "path": "src/EShop.SaaSService.Domain.Shared/EShop.SaaSService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.SaaSService.Domain": {
+      "path": "src/EShop.SaaSService.Domain/EShop.SaaSService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.SaaSService.Application.Contracts": {
+      "path": "src/EShop.SaaSService.Application.Contracts/EShop.SaaSService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.SaaSService.Application": {
+      "path": "src/EShop.SaaSService.Application/EShop.SaaSService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.SaaSService.EntityFrameworkCore": {
+      "path": "src/EShop.SaaSService.EntityFrameworkCore/EShop.SaaSService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.SaaSService.MongoDB": {
+      "path": "src/EShop.SaaSService.MongoDB/EShop.SaaSService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.SaaSService.HttpApi": {
+      "path": "src/EShop.SaaSService.HttpApi/EShop.SaaSService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.SaaSService.HttpApi.Client": {
+      "path": "src/EShop.SaaSService.HttpApi.Client/EShop.SaaSService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "EShop.SaaSService.TestBase": {
+      "path": "test/EShop.SaaSService.TestBase/EShop.SaaSService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.SaaSService.EntityFrameworkCore.Tests": {
+      "path": "test/EShop.SaaSService.EntityFrameworkCore.Tests/EShop.SaaSService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.SaaSService.MongoDB.Tests": {
+      "path": "test/EShop.SaaSService.MongoDB.Tests/EShop.SaaSService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.SaaSService.Domain.Tests": {
+      "path": "test/EShop.SaaSService.Domain.Tests/EShop.SaaSService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.SaaSService.Application.Tests": {
+      "path": "test/EShop.SaaSService.Application.Tests/EShop.SaaSService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.SaaSService.HttpApi.Host": {
+      "path": "host/EShop.SaaSService.HttpApi.Host/EShop.SaaSService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "EShop.SaaSService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/EShop.SaaSService.HttpApi.Client.ConsoleTestApp/EShop.SaaSService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "EShop.SaaSService.AuthServer": {
+      "path": "host/EShop.SaaSService.AuthServer/EShop.SaaSService.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "EShop.SaaSService.Host.Shared": {
+      "path": "host/EShop.SaaSService.Host.Shared/EShop.SaaSService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

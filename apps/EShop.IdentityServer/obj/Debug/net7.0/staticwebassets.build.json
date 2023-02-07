@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6WPN7bjBJMW0qqQ1/ZAZtdJM4UCoNcbCToBIYy9fbZA=",
+  "Source": "EShop.IdentityServer",
+  "BasePath": "_content/EShop.IdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
